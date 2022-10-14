@@ -1,1 +1,1 @@
-# es6-es5-template
+# es6-es5 set up template
